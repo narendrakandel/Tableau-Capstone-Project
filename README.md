@@ -1,1 +1,2 @@
-# The General Manager of ‘TheLook’: A fictious eCommerce company is presenting the insights to the next senior management meeting.
+# A fictious eCommerce company TheLOOK
+## As a Data Analyst at an e-commerce company, the business requires a comprehensive analysis about the progress of their activity. In particular, they require a study about the progress of sales, inventory and products. The company data is stored in the following BigQuery database: bigquery-public-data.thelook_ecommerce. The task is to query and extract the data, perform any cleaning if necessary, manipulate it, analyse it and create a compelling presentation of your results in Tableau, that will be delivered to the senior management meeting. 
